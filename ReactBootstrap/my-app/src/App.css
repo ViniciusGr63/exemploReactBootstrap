@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  justify-content: center;
+}
+
+
+h1{
+  background-color: rgb(140, 189, 253);
+  margin-bottom: 50px;
+  align-items: initial;
+}
+.Text{
+ 
+ 
+  width: 50%;
+  text-align: justify;
+}
+.Form{
+  background-color: rgb(140, 189, 253);
+  outline: 5px solid rgb(11, 11, 59);
+  height: 200px;
+}
